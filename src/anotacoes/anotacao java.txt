@@ -1,0 +1,24 @@
+JAVA
+///////////////////////////////////////////////////////////////////////////////////////////////////
+LINKAR NO HTML COM "SCRIPT"
+<script src="./src/js/index.js"></script>
+///////////////////////////////////////////////////////////////////////////////////////////////////
+linguagem de progamacao
+deixa o site interativo
+///////////////////////////////////////////////////////////////////////////////////////////////////
+NOME PADRAO DOS ARQUIVOS JAVA
+index.js
+///////////////////////////////////////////////////////////////////////////////////////////////////
+CONSEITOS DE PROGAMACAO DE JAVASCRIPT
+document = serve para puxar o arquivo html do site
+LOG = console.log()
+INVES DESSE CODIGO
+{document.getElementById =busca o elemento pelo id
+const itemCiclope = document.getElementById('ciclope');  = tudo que esta depois do sinal de igual vai parda dentro da palavra que esta antes do sinal de igual como uma box(itemCiclope)
+    e o CONST significa que vai ter um valor constante no codigo}
+    USE ESSE CODIGO
+    const personagens = document.querySelectorAll('.nome da classe'); = busca todas os elementos da classe
+
+    () => {} = funcao de seta
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
